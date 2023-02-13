@@ -1,6 +1,6 @@
 name :vivo
 version : 14.0
 Ram : 64 gb
-
+versui 12
 version: 13
 version : 14
